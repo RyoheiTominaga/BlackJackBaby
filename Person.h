@@ -10,7 +10,10 @@ private:
 
 	char* _pName;	// –¼‘O
 
+	virtual bool play(Shoe* pShoe)=0;
+
 public:
+
 	Person(const char* pName);
 	virtual ~Person();
 
