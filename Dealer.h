@@ -11,5 +11,5 @@ public:
 	virtual ~Dealer();
 
 public:
-	bool play(Shoe* pShoe).override;	// ターン処理
+	bool play(Shoe* pShoe)override; //override;	// ターン処理
 };

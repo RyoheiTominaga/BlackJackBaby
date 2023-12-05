@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "Shoe.h"
-
+#include "Person.h"
 #include "Player.h"
 #include "Dealer.h"
 
