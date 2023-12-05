@@ -138,3 +138,7 @@ int Person::calcScore()
 	return score;
 
 }
+bool Person::play(Show& show) {
+	//ここでスコア前までの処理を終わらせる
+
+}
